@@ -1,3 +1,0 @@
-D:/Илья/Обучение/Нетология/C++/домашние работы/CMake_files/01/out/build/x86-Release/CMakeFiles/my_first_cmake_program.dir
-D:/Илья/Обучение/Нетология/C++/домашние работы/CMake_files/01/out/build/x86-Release/CMakeFiles/edit_cache.dir
-D:/Илья/Обучение/Нетология/C++/домашние работы/CMake_files/01/out/build/x86-Release/CMakeFiles/rebuild_cache.dir
